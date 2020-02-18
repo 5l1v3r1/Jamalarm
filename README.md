@@ -12,7 +12,7 @@ python3 jamalarm.py
 ```
 
 ```
-pip3 install requests
+pip3 install -r requests.txt
 ```
 #### Pendukung:
 ```
