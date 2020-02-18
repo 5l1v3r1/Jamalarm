@@ -58,7 +58,7 @@ def opt():
                         print('\033[0m[\033[93;1m PESAN \033[0m] '+messg)
                         print()
                         print('\033[0m[\033[91;1m-\033[0m] Tekan Ctrl + C untuk menyetop\033[0m')
-                        sp.call('mpv .nada',shell=True,stdout=sp.DEVNULL,stderr=sp.STDOUT)
+                        sp.call('mpv +.nada',shell=True,stdout=sp.DEVNULL,stderr=sp.STDOUT)
                         break
                   else:
                         print('\r\033[0mSekarang Jam\033[91;2m',waktu,end=''),;sys.stdout.flush();sleep(0.5)
