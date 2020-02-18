@@ -1,5 +1,5 @@
 #### Apa Ini?
-<h1 align="center">Alarm untuk bangunin umat manusia seplanet bumi</h1>
++ Alarm untuk bangunin umat manusia seplanet bumi
 
 #### Screenshot:
 ![](./Screenshot.png)
