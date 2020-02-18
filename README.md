@@ -14,7 +14,10 @@ python3 jamalarm.py
 ```
 pip3 install requests
 ```
-
+#### Pendukung:
+```
+apt-get install mpv
+```
 #### Kontak:
 + Email d_q16x@outlook.co.id
 + WhatsApp +62 85775433901
