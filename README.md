@@ -1,6 +1,3 @@
-#### Apa Ini?
-+ Alarm untuk bangunin umat manusia seplanet bumi
-
 #### Screenshot:
 ![](./Screenshot.png)
 #### Cara Menginstall:
@@ -13,6 +10,11 @@ cd Jamalarm
 ls
 python3 jamalarm.py
 ```
+
+```
+pip3 install requests
+```
+
 #### Kontak:
 + Email d_q16x@outlook.co.id
 + WhatsApp +62 85775433901
