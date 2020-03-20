@@ -16,7 +16,7 @@ python3 jamalarm.py
 pip3 install -r requirement.txt
 ```
 #### Audio:
-+ Untuk memutar suara install ```mpv```
+Untuk memutar suara install ```mpv```
 #### Kontak:
 + Email d_q16x@outlook.co.id
 + WhatsApp https://tinyurl.com/wel4alo
