@@ -1,5 +1,5 @@
 # Jamalarm:
-*Masih dalam tahap pengembangan, buat hek wipi + pesbuk + dan hancurin satelit NASA. Alarm ini bisa bikin botloop*
+Masih dalam tahap pengembangan, buat hek wipi + pesbuk + dan hancurin satelit NASA. Alarm ini bisa bikin botloop
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
