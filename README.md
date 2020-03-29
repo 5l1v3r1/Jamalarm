@@ -21,8 +21,11 @@
 <h5>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
-<br> <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FJamalarm" alt="Twitter"> </br>
 </h5>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FJamalarm" alt="Twitter">
 </p>
 
 ### Informasi:
